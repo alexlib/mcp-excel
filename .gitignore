@@ -55,3 +55,4 @@ sample_files/
 
 # Logs
 *.log
+uv.lock
